@@ -1,0 +1,39 @@
+body {
+  font-family: 'Kanit', sans-serif;
+}
+  h1 {
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+  }
+
+  #container {
+    text-align: center;
+    margin-top: 0%;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 5px 10px;
+    border-radius: 25px;
+    background-color: #ffbb3e;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'Kanit', sans-serif;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  p {
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 400;
+  }
+  
